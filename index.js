@@ -34,4 +34,5 @@ function iLoveTheBeatles(inputNumber){
       i += 1;
     } while (i < delta);
   }
+  return returnArray
 }
