@@ -21,4 +21,5 @@ function johnLennonFacts(facts){
     returnFacts.push(tempVar)
     n++;
   }
+  return returnFacts
 }
