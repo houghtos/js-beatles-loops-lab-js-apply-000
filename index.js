@@ -1,5 +1,3 @@
-// add solution here
-
 function theBeatlesPlay(musicians, instruments) {
   var emptyArray = [];
   //var len = musicians.length;
