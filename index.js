@@ -28,11 +28,17 @@ function iLoveTheBeatles(inputNumber){
   var returnArray = [];
   var delta = 15 - inputNumber;
   var i = 0;
+  
   if (inputNumber < 15){
     do{
       returnArray.push("I love the Beatles!")
       i += 1;
     } while (i < delta);
   }
+  
+  if (inputNumber > 15){
+    returnArray.push("I love the Beatles!")
+  }
+  
   return returnArray
 }
