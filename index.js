@@ -2,5 +2,7 @@
 
 function theBeatlesPlay(musicians, instruments) {
   emptyArray = []
-  
+  for (i in musicians){
+    
+  }
 }
