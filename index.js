@@ -1,5 +1,5 @@
 // add solution here
 
-function myFunc(theObject) {
+function theBeatlesPlay(theObject) {
   theObject.brand = "Toyota";
 }
