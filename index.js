@@ -26,6 +26,9 @@ function johnLennonFacts(facts){
 //Function 3 love Beatles do-while loop
 function iLoveTheBeatles(inputNumber){
   var returnArray = [];
-  var delta = 15 - inputNumber
+  var delta = 15 - inputNumber;
   
+  if (inputNumber < 15){
+    
+  }
 }
