@@ -1,5 +1,5 @@
 // add solution here
 
-function theBeatlesPlay(theObject) {
+function theBeatlesPlay(musicians, ) {
   theObject.brand = "Toyota";
 }
