@@ -22,3 +22,6 @@ function johnLennonFacts(facts){
   }
   return returnFacts
 }
+
+//Function 3 love Beatles do-while loop
+function 
