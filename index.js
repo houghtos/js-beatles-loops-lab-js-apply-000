@@ -11,4 +11,6 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 //Function 2 John Lennon Facts while loop 
-function 
+function johnLennonFacts(facts){
+  
+}
