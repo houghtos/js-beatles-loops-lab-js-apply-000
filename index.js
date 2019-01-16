@@ -1,3 +1,4 @@
+//Function 1 Beatles for loop
 function theBeatlesPlay(musicians, instruments) {
   var returnArray = [];
   //var len = musicians.length;
@@ -8,3 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
 
   return returnArray
 }
+
+//Function 2 John Lennon Facts while loop 
+function 
