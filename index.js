@@ -30,7 +30,7 @@ function iLoveTheBeatles(inputNumber){
   var i = 0;
   if (inputNumber < 15){
     do{
-      returnArray.push()
+      returnArray.push("I love the Beatles!")
       i += 1;
     } while (i < delta);
   }
